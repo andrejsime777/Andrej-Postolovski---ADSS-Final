@@ -1,0 +1,264 @@
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csprojAssemblyReference.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfoInputs.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfo.cs
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.xml
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\scopedcss\bundle\UniversityApplication.WebApi.styles.css
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.exe
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.deps.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.dev.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\ref\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CopyComplete
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\ref\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.genruntimeconfig.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csprojAssemblyReference.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfoInputs.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfo.cs
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\ref\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.exe
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.deps.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.dev.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\ref\UniversityApplication.WebApi.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.xml
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\scopedcss\bundle\UniversityApplication.WebApi.styles.css
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CopyComplete
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.StaticWebAssets.xml
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.exe
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.deps.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.dev.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.AssemblyReference.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfoInputs.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfo.cs
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\scopedcss\bundle\UniversityApplication.WebApi.styles.css
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CopyComplete
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\refint\UniversityApplication.WebApi.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.genruntimeconfig.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\ref\UniversityApplication.WebApi.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.StaticWebAssets.xml
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.exe
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.deps.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.runtimeconfig.dev.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.AssemblyReference.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfoInputs.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.AssemblyInfo.cs
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\scopedcss\bundle\UniversityApplication.WebApi.styles.css
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\staticwebassets\UniversityApplication.WebApi.StaticWebAssets.Manifest.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.csproj.CopyComplete
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\refint\UniversityApplication.WebApi.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\UniversityApplication.WebApi.genruntimeconfig.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.WebApi\obj\Debug\net5.0\ref\UniversityApplication.WebApi.dll

@@ -1,0 +1,74 @@
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.deps.json
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\ref\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csprojAssemblyReference.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfoInputs.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfo.cs
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CopyComplete
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\ref\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\monika.arsenovska\source\repos\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csprojAssemblyReference.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfoInputs.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfo.cs
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\ref\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.deps.json
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\ref\UniversityApplication.Service.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\monika.arsenovska\Desktop\UACS\UACS 2021\Spring 2022\IS\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CopyComplete
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.deps.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.AssemblyReference.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfoInputs.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfo.cs
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CopyComplete
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\refint\UniversityApplication.Service.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\ref\UniversityApplication.Service.dll
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.runtimeconfig.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.runtimeconfig.dev.json
+C:\Users\Marko\Documents\UACS\6 semestatjra\Internet Services\Posle Midterm\UniversityApplication\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.genruntimeconfig.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.deps.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.runtimeconfig.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.runtimeconfig.dev.json
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Data.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\bin\Debug\net5.0\UniversityApplication.Models.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.AssemblyReference.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfoInputs.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.AssemblyInfo.cs
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CoreCompileInputs.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.csproj.CopyComplete
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\refint\UniversityApplication.Service.dll
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.pdb
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\UniversityApplication.Service.genruntimeconfig.cache
+C:\Users\posto\Desktop\Andrej Postolovski - ADSS Final\Source Code\UniversityApplication\UniversityApplication.Service\obj\Debug\net5.0\ref\UniversityApplication.Service.dll
